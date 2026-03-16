@@ -16,6 +16,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://hirehal.ai/blog/what-ai-cofounder-does</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hirehal.ai/blog/best-ai-agent-frameworks</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hirehal.ai/blog/ai-tasks-every-day</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://hirehal.ai/blog/agent-running-one-month</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
