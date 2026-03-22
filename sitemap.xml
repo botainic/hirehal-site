@@ -16,6 +16,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://hirehal.ai/blog/openclaw-cron-jobs-not-working</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://hirehal.ai/blog/openclaw-vs-claude-code-channels</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
