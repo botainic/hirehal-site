@@ -4,8 +4,7 @@
   "redirects": [
     { "source": "/blog/ai-tasks-every-day", "destination": "/blog/automate-content-distribution-without-ai-slop", "statusCode": 301 },
     { "source": "/blog/two-person-startup", "destination": "/blog/agent-running-one-month", "statusCode": 301 },
-    { "source": "/blog/what-ai-cofounder-does", "destination": "/blog/agent-running-one-month", "statusCode": 301 },
-    { "source": "/blog/best-ai-agent-frameworks", "destination": "/blog/automate-content-distribution-without-ai-slop", "statusCode": 301 }
+    { "source": "/blog/what-ai-cofounder-does", "destination": "/blog/agent-running-one-month", "statusCode": 301 }
   ],
   "rewrites": [
     { "source": "/sitemap.xml", "destination": "/sitemap.xml" },
